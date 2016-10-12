@@ -3,6 +3,7 @@
 A Simple Cache Warmer Script for Linux based Systems.
 
 Highlights
+
 1. Meant for low resource servers. A lot of scripts out there pings ( bombards ) server with requests. This one does ONE url at a time. Putting a sleep / timeout between pings is error prone as the server might get overloaded.
 
 2. Supports Sitemap and Sitemap Index files. Recursively traverses the sub sitemaps.
@@ -53,4 +54,4 @@ tail -f /var/log/cache_warmer.log
 
 Sites Using Simple Cache Warmer
 
-1. http://HighOnPoems.com
+- http://HighOnPoems.com
