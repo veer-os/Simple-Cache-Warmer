@@ -47,7 +47,9 @@ Installation
     
  - Restart / Reload cron service
   
-Once fired you may check the logs by doing tail -f /var/log/cache_warmer.log  
+Once fired you may check the logs by doing 
+
+tail -f /var/log/cache_warmer.log  
 
 Sites Using Simple Cache Warmer
 
